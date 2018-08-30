@@ -1,0 +1,31 @@
+{
+	"elements":
+	[
+    {
+      "name": "Benutzer",
+      "type": "ValidationTextBox",
+      "caption": "Benutzer"
+    },
+
+    {
+      "name": "Passwort",
+      "type": "ValidationTextBox",
+      "caption": "Passwort"
+    },
+
+    {
+      "name": "IP",
+      "type": "ValidationTextBox",
+      "caption": "IP"
+    },
+    {
+      "name": "Port",
+      "type": "ValidationTextBox",
+      "caption": "Port"
+    }
+	],
+	"actions":
+	[
+		{ "type": "Button", "label": "Update", "onClick": "EL_RequestInfo($id);" }
+	]	
+}

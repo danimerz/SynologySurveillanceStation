@@ -1,0 +1,14 @@
+{
+	"id": "{E753E82D-468F-4E5E-9456-C2F06D299774}",
+	"name": "SynologySurveillanceStation",
+	"type": 3,
+	"vendor": "",
+	"aliases": 
+	[
+		"SynologySurveillanceStation"
+	],	
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "SSS"
+}
